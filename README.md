@@ -4,6 +4,9 @@ A Super simple web app skeleton built with python3 and Flask (and Bootstrap for 
 
 This can be used a starting point to build and actual application 
 
+![alt text](gallery/home.jpg)
+
+
 ## Features
 
 The App only hase three routes to handle HTTP requests. 
@@ -38,3 +41,4 @@ run the App
 python3 app.py
 ```
 
+navigate to http://127.0.0.1:5000/ on your browser!
