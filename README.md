@@ -1,12 +1,14 @@
-# BasicFlask
+# Mock Flask App
 
 A Super simple web app skeleton built with python3 and Flask (and Bootstrap for the stylesheet and navbar)
 
-This can be used a starting point to build and actual application 
+This can be used a starting point to build and actual application.
+
+A single feature is implemented and the app is using a single file, no blueprints, no static. 
 
 ![homepage](gallery/home.jpg)
 
-The webapp just let's you enter your name and displays a welcome message
+The webapp just let's you enter your name and displays a welcome message.
 
 ![welcome message](gallery/welcome.jpg)
 
@@ -46,4 +48,4 @@ run the App
 python3 app.py
 ```
 
-navigate to http://127.0.0.1:5000/ on your browser!
+navigate to http://127.0.0.1:5000/ on your browser and enjoy!
