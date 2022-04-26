@@ -1,10 +1,15 @@
 # BasicFlask
 
-A Super simple web app skeleton built with python3 and Flask (and Bootstrap for the navbar)
+A Super simple web app skeleton built with python3 and Flask (and Bootstrap for the stylesheet and navbar)
 
 This can be used a starting point to build and actual application 
 
-![alt text](gallery/home.jpg)
+![homepage](gallery/home.jpg)
+
+The webapp just let's you enter your name and displays a welcome message
+
+![welcome message](gallery/welcome.jpg)
+
 
 
 ## Features

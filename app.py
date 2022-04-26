@@ -16,8 +16,7 @@ def login():
     if request.method == "POST":
         username = request.form['nm']
         return redirect(url_for("user", username=username))
-    else:
-        return render_template("login.html")
+    return render_template("login.html")
 
 #route displaying welcome message
 @app.route("/<username>")
